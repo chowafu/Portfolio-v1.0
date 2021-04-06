@@ -10,9 +10,6 @@ const navSlide = () => {
     
 
     navLinks.forEach((link, index) => {
-      link.addEventListener("click", () => {
-        nav.classList.toggle("nav-deactive");
-      });
       if (link.style.animation) {
         link.style.animation = ``;
       } else {
