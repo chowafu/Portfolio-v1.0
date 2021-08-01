@@ -1,0 +1,6 @@
+*.md
+Portfolio/stylesheet/bootstrap.min.css
+Portfolio/scripts/bootstrap.bundle.min.js
+Portfolio/scripts/jquery.js
+Portfolio/images/**
+Portfolio/fonts/**
